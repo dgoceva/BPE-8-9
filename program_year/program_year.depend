@@ -1,5 +1,12 @@
 # depslib dependency file v1.0
-1678090901 source:c:\samples\bpe-8-9\program_year\main.c
+1678693930 source:c:\samples\bpe-8-9\program_year\main.c
+	"year.h"
+
+1678695698 c:\samples\bpe-8-9\program_year\year.h
 	<stdio.h>
 	<stdlib.h>
+	<assert.h>
+
+1678695183 source:c:\samples\bpe-8-9\program_year\year.c
+	"year.h"
 
