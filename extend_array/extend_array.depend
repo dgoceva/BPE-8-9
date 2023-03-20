@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1679300401 source:c:\samples\bpe-8-9\extend_array\main.c
+	<stdio.h>
+	<stdlib.h>
+
