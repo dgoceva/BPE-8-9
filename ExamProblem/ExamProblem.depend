@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1681114910 source:c:\samples\bpe-8-9\examproblem\main.c
+	"pet.h"
+	<string.h>
+
+1681109857 c:\samples\bpe-8-9\examproblem\pet.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1681114577 source:c:\samples\bpe-8-9\examproblem\pet.c
+	"pet.h"
+
